@@ -1,6 +1,6 @@
 # odin_recipes
 Odin Project recipes
-This repository will contain all the "recipes" I will do while following The Odin Project course.
+This is my first project from The Odin Project, which is to create a basic HTML website containing three different recipes.
 The first part cover HTML foundations, in which I learned :
 - How to make a HTML boilerplate
 - How to create paragraphs, titles, ordered/unordered lists, links and add image into a web page
